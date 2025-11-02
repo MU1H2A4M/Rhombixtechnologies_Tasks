@@ -1,1 +1,1 @@
-# Rhombixtechnologies_Tasks
+# Python series
